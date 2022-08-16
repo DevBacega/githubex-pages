@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/githubex-pages/static/js/main.ea156bdb.chunk.js",
+    "main.js.map": "/githubex-pages/static/js/main.ea156bdb.chunk.js.map",
+    "runtime-main.js": "/githubex-pages/static/js/runtime-main.e07bc9e4.js",
+    "runtime-main.js.map": "/githubex-pages/static/js/runtime-main.e07bc9e4.js.map",
+    "static/js/2.708bd5a8.chunk.js": "/githubex-pages/static/js/2.708bd5a8.chunk.js",
+    "static/js/2.708bd5a8.chunk.js.map": "/githubex-pages/static/js/2.708bd5a8.chunk.js.map",
+    "index.html": "/githubex-pages/index.html",
+    "precache-manifest.41d9ea714a8a27c9df8e56046b402ee6.js": "/githubex-pages/precache-manifest.41d9ea714a8a27c9df8e56046b402ee6.js",
+    "service-worker.js": "/githubex-pages/service-worker.js",
+    "static/js/2.708bd5a8.chunk.js.LICENSE.txt": "/githubex-pages/static/js/2.708bd5a8.chunk.js.LICENSE.txt",
+    "static/media/github-background.svg": "/githubex-pages/static/media/github-background.0b819d63.svg",
+    "static/media/logo.svg": "/githubex-pages/static/media/logo.04f6798f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e07bc9e4.js",
+    "static/js/2.708bd5a8.chunk.js",
+    "static/js/main.ea156bdb.chunk.js"
+  ]
+}
